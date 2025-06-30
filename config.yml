@@ -1,0 +1,38 @@
+title: Swarit Chaudhari
+#(This would be image)logo:
+email: swarit31@gmail.com
+favicon: true
+color-scheme: auto
+#description:
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+navigation:
+  - name: Home Page
+  link: ./
+  sublist:
+    - name: Education
+      link: ./
+      sublist:
+        - name: Education
+        link: ./Education.html
+        - name: Experiencee
+        link: ./Experience.html
+        - name: Projects
+        link: ./Projects.html
+        - name: Certifications
+        link: ./Certifications.html
+platforms:
+  - name: Github
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/swarit
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/swarit-chaudhari/
+  - name: ORCID
+    icon: <i class="fa-brands fa-orcid"></i>
+    link: https://orcid.org/0000-0003-3228-5939
+  
