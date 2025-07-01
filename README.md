@@ -14,7 +14,7 @@
 
 # Education
 
-## M.S., Mehanical Engineering | University of Cincinnati (_August 2022 - Exp. Dec 2025_)
+## M.S., Mehanical Engineering | University of Cincinnati (_August 2022 - Exp. Dec. 2025_)
 - GPA: 3.25/4.0
 - Advisor: [Dr. Murali Sundaram](https://scholar.google.com/citations?user=vXY-oQMAAAAJ&hl=en)
 - Awards: - GIA Scholarship
