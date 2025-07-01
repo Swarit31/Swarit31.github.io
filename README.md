@@ -1,5 +1,7 @@
 # Aspiring Engineer
 
+Multidisciplinary engineer pursuing an M.S. in Mechanical Engineering with a focus on non-conventional manufacturing processes. Demonstrated success in developing high-performance manufacturing systems integrated with control architectures. Skilled in CATIA V5, Arduino, and C++, with a strong foundation in process optimization. Experienced in translating theoretical knowledge into practical solutions for complex challenges in both academic research and industry settings.**
+
 # Work Experience 
 ## Research assistant @ [Micro and Nano Manufacturing Laboratory](https://ceas.uc.edu/research/centers-labs/micro-and-nano-manufacturing-laboratory/research.html), University of Cincinnati      (_Aug 2022 – Exp. Dec 2025_)
 ### Design and development of an electrochemical milling process 
