@@ -3,8 +3,8 @@
 # Work Experience 
 ## Research assistant @ [Micro and Nano Manufacturing Laboratory](https://ceas.uc.edu/research/centers-labs/micro-and-nano-manufacturing-laboratory/research.html), University of Cincinnati      (_Aug 2022 – Exp. Dec 2025_)
 ### Design and development of an electrochemical milling process 
-  -	A custom system was developed for horizontal electrochemical milling of titanium, tailored to meet specific project requirements.
-  -	System was small scale version of actual equipment, developed with an arduino implemented control system. 
+  -	A custom system was developed for horizontal electrochemical milling of grade 2 Titanium, tailored to meet specific project requirements.
+  -	System was small scale down version of actual industrial equipment, developed with an arduino implemented control system. 
 ### Study on gas films and sparking in ultrasonic electrochemical discharge machining
   -	Worked in wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining. Collect high-speed camera machining data of the process.
   - Using machine learning models CNN and MLP accurately predicted the location of sparks and the thickness of the gas film. 
@@ -15,12 +15,12 @@
 # Education
 
 ## M.S., Mehanical Engineering | University of Cincinnati (_August 2022 - Exp. Dec.2025_)
-- GPA: 3.23/4.0
+- GPA: 3.25/4.0
 - Advisor: [Dr. Murali Sundaram](https://scholar.google.com/citations?user=vXY-oQMAAAAJ&hl=en)
 - Awards: - GIA Scholarship
 
 ### Graduate Thesis: _Photocatalyst Assisted Electrochemical Machining of Titanium_
-- Developed a novel Ultraviolet-assisted hybrid electrochemical machining method for titanium. Implemented Control system using Arduino as well as design of experiments executed to achieve enhanced material removal rate, better surface finish and lower overcut.
+- Developed a novel Ultraviolet-assisted hybrid electrochemical machining method for titanium Ti-6Al-4V. Implemented control system using Arduino as well as executed design of experiments methodology to achieve enhanced material removal rate, better surface finish and lower overcut.
 
   
 ## B.E., Mechanical Engineering | Savitribai Phule Pune University (_May 2022_)
