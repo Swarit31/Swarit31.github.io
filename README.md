@@ -1,7 +1,7 @@
 # Aspiring Engineer
 
 # Work Experience 
-## Research assistant @ [Micro and Nano Manufacturing Laboratory](https://ceas.uc.edu/research/centers-labs/micro-and-nano-manufacturing-laboratory/research.html), University of Cincinnati      (_Aug 2022 – Exp. Dec 2025_)
+## Research assistant @ [Micro and Nano Manufacturing Laboratory](https://ceas.uc.edu/research/centers-labs/micro-and-nano-manufacturing-laboratory/research.html), University of Cincinnati      (_Aug 2022 – Exp. Dec  2025_)
 ### Design and development of an electrochemical milling process 
   -	A custom system was developed for horizontal electrochemical milling of grade 2 Titanium, tailored to meet specific project requirements.
   -	System was small scale down version of actual industrial equipment, developed with an arduino implemented control system. 
