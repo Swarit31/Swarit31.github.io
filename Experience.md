@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Work Experience 
 ## Research assistant @ [Micro and Nano Manufacturing Laboratory](https://ceas.uc.edu/research/centers-labs/micro-and-nano-manufacturing-laboratory/research.html), University of Cincinnati      (Aug. 2024 – Dec. 2024; May 2025 - June 2025)
 ### Design and development of an electrochemical milling process 
