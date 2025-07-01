@@ -4,7 +4,7 @@ email: swarit31@gmail.com
 favicon: true
 color-scheme: auto
 #description:
-theme: jekyll-theme-minimal
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
