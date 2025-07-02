@@ -10,7 +10,7 @@ layout: default
     real-time monitoring. Designed supporting sensor circuitry ensuring reliable data acquisition and system functionality. Assembled the full system including all 3D printed components, electronics, and mechanical
     interfaces into a working unit	
   - Successfully machined Ti-6Al-4V using the developed ECM setup. The system performed reliably under experimental conditions, enabling precise control over the machining environment. Demonstrated effective integration
-     of mechanical design, electronics, and hands-on prototyping to support advanced materials research.
+    of mechanical design, electronics, and hands-on prototyping to support advanced materials research.
 
 ## Comparing Acoustic Horn Designs for Ultrasonic electro discharge machining [click here](https://drive.google.com/file/d/1TZvKJ6EA-MULNo2_hepJlK4ximdFGhar/view?usp=sharing)
  - Designed and evaluated ultrasonic horns for Ultrasonic Electro discharge Machining process, where the carbide tool would be attached on the output side of horn for maximum vibrations, focusing on optimal shape and        material selection.
@@ -19,7 +19,7 @@ layout: default
  - Performed analytical calculations and validated results through ANSYS simulations using harmonic modal analysis.Identified the most viable horn geometry and material combination. Provided data-driven design
   recommendations to enhance UEDM efficiency and reliability.
  - Based on the result among materials Titanium and Step geometry were optimum but due to manufacturing constraints Aluminum and Cone geometry preferred which
-  were very close in performance. Further 3 cone geometries were studied based on output diameter for holding the tool in UEDM process.
+   were very close in performance. Further 3 cone geometries were studied based on output diameter for holding the tool in UEDM process.
 
 
 
