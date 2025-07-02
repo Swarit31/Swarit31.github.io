@@ -2,47 +2,18 @@
 layout: default
 ---
 
-# Projects
+# Work Experience 
 
-## Photocatalyst assisted electrochemical machining of grade 5 Titanium (Ti-6Al-4V)
-  - A custom system was designed and developed based on electrochemical machining system for a research study on photocatalyst assisted hybrid electrochemical machining of Ti-6Al-4V.
-  - Modeled the system in CATIA V5 and fabricated a functional prototype using FDM & SLA additive processes. Designed and integrated a control system using Arduino, along with temperature, current, and flow sensors for
-    real-time monitoring. Designed supporting sensor circuitry ensuring reliable data acquisition and system functionality. Assembled the full system including all 3D printed components, electronics, and mechanical
-    interfaces into a working unit	
-  - Successfully machined Ti-6Al-4V using the developed ECM setup. The system performed reliably under experimental conditions, enabling precise control over the machining environment. Demonstrated effective integration
-     of mechanical design, electronics, and hands-on prototyping to support advanced materials research.
-
-## [Comparing Acoustic Horn Designs for Ultrasonic electro discharge machining](https://drive.google.com/file/d/1TZvKJ6EA-MULNo2_hepJlK4ximdFGhar/view?usp=sharing)
- - Designed and evaluated ultrasonic horns for Ultrasonic Electro discharge Machining process, where the carbide tool would be attached on the output side of horn for maximum vibrations, focusing on optimal shape and        material selection.
- - Review literature on horn designs and materials used in ultrasonic machining. Designed 2 horn geometries in CATIA V5 based on UEDM requirements and compared three materials using key performance metrics: displacement,
-   magnification factor, stress and frequency.
- - Performed analytical calculations and validated results through ANSYS simulations using harmonic modal analysis.Identified the most viable horn geometry and material combination. Provided data-driven design
-  recommendations to enhance UEDM efficiency and reliability.
- - Based on the result among materials Titanium and Step geometry were optimum but due to manufacturing constraints Aluminum and Cone geometry preferred which
-  were very close in performance. Further 3 cone geometries were studied based on output diameter for holding the tool in UEDM process.
-
-
-
-## Computational analysis of effect of pore-size on mechanical performance of micro-porous structures
-
-## Integrated solar house design with sun-tracker, thermal and P-V systems
-## Testing and Analysis of Human Femur Bone at Head Portion - B.E. Thesis
-
-## Study on gas films and sparking in Ultrasonic assisted electrochemical discharge machining
-  -	Worked in wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining. Collect high-speed camera machining data of the process.
-  - Using machine learning models CNN and MLP accurately predicted the location of sparks and the thickness of the gas film. 
-
-
-## Design and development of an electrochemical milling process 
+## Research assistant @ [Micro and Nano Manufacturing Laboratory](https://ceas.uc.edu/research/centers-labs/micro-and-nano-manufacturing-laboratory/research.html), University of Cincinnati      (Aug. 2024 – Dec. 2024; May 2025 - June 2025)
+###  Design and development of an electrochemical milling process 
   -	A custom system was developed for horizontal electrochemical milling of grade 2 Titanium, tailored to meet specific project requirements.
-  -	System was small scale down version of actual industrial equipment, developed with an arduino implemented control system. 
+  -	System was small scale down version of actual industrial equipment, developed with an arduino implemented control system.
+### Study on gas films and sparking in ultrasonic electrochemical discharge machining
+  -	Worked in wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining. Collect high-speed camera machining data of the process.
+  - Using machine learning models CNN and MLP accurately predicted the location of sparks and the thickness of the gas film.
+### Simulation of electrochemical machining process 
   -	Develop a full-process simulation suite of a specialized electrochemical manufacturing process for a Defense-related project.
   -	Simulate dynamic material removal rate along with size and shape of cut contours.
-# Work Experience 
-## Research assistant @ [Micro and Nano Manufacturing Laboratory](https://ceas.uc.edu/research/centers-labs/micro-and-nano-manufacturing-laboratory/research.html), University of Cincinnati      (Aug. 2024 – Dec. 2024; May 2025 - June 2025)
-
-
-
 
 ## Team Member – [On The Green, University of Cincinnati](https://ucdining.sodexomyway.com/en-us/locations/on-the-green) [(Aramark Hospitality Services)](https://www.aramark.com/our-services/hospitality-management)	    (Aug 2023 - May 2024)
   - Oversaw dishwashing operations and ensured timely completion of cleaning tasks by coordinating with student workers.
