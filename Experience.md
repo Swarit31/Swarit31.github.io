@@ -12,7 +12,7 @@ layout: default
   - Successfully machined Ti-6Al-4V using the developed ECM setup. The system performed reliably under experimental conditions, enabling precise control over the machining environment. Demonstrated effective integration
      of mechanical design, electronics, and hands-on prototyping to support advanced materials research.
 
-## [Comparing Acoustic Horn Designs for Ultrasonic electro discharge machining](https://drive.google.com/drive/folders/16f_H7Nw0MoP3_D91bb7klNRTImD7JmXl)
+## [Comparing Acoustic Horn Designs for Ultrasonic electro discharge machining](https://drive.google.com/file/d/1TZvKJ6EA-MULNo2_hepJlK4ximdFGhar/view?usp=sharing)
  - Designed and evaluated ultrasonic horns for Ultrasonic Electro discharge Machining process, where the carbide tool would be attached on the output side of horn for maximum vibrations, focusing on optimal shape and        material selection.
  - Review literature on horn designs and materials used in ultrasonic machining. Designed 2 horn geometries in CATIA V5 based on UEDM requirements and compared three materials using key performance metrics: displacement,
    magnification factor, stress and frequency.
