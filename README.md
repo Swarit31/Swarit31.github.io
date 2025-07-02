@@ -10,6 +10,8 @@ Multidisciplinary engineer pursuing an M.S. in Mechanical Engineering with a foc
 
 
 
+ grade 2 Titanium, tailored to meet specific project requirements.
+  -	System was small scale down version of actual industrial equipment, developed with an arduino implemented control system.
 
 
 
