@@ -21,9 +21,12 @@ layout: default
  - Based on the result among materials Titanium and Step geometry were optimum but due to manufacturing constraints Aluminum and Cone geometry preferred which
    were very close in performance. Further 3 cone geometries were studied based on output diameter for holding the tool in UEDM process.
 
-
-
 ## Computational analysis of effect of pore-size on mechanical performance of micro-porous structures [click here](https://drive.google.com/file/d/1_CSoilOd6hTPmAvil--rAIoIfgCO7Svj/view?usp=sharing)
+- Investigated the mechanical behavior of micro-porous structures to understand the effect of pore size on material performance, with a hypothesis that thickness of parts inside the porous metals have effects on their strength.
+- Reviewed literature on manufacturing methods for porous materials. Designed various micro-porous geometries in SolidWorks for comparison. Conducted tensile, compression and bending simulations using ANSYS to evaluate mechanical properties. Analyzed simulation data to assess the influence of pore size strength and stiffness
+- We identified trends in mechanical performance relative to pore size and geometry. Smaller porous metals performed better proving they can be subjected to larger compressions, deformation due to larger thickness in the connecting parts. Provided insights to guide material selection and design and manufacturing methods for porous structural components.
+
+
 
 ## Integrated solar house design with sun-tracker, thermal and P-V systems [click here](https://drive.google.com/file/d/1Nabl_DU8NlQCB60O135zJ-6mBIHn8P1U/view?usp=sharing)
 ## Testing and Analysis of Human Femur Bone at Head Portion - B.E. Thesis [click here](https://drive.google.com/file/d/1Nabl_DU8NlQCB60O135zJ-6mBIHn8P1U/view?usp=sharing)
