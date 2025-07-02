@@ -29,8 +29,10 @@ layout: default
 ## Testing and Analysis of Human Femur Bone at Head Portion - B.E. Thesis [click here](https://drive.google.com/file/d/1Nabl_DU8NlQCB60O135zJ-6mBIHn8P1U/view?usp=sharing)
 
 ## Study on gas films and sparking in Ultrasonic assisted electrochemical discharge machining
-  -	Worked in wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining. Collect high-speed camera machining data of the process.
-  - Using machine learning models CNN and MLP accurately predicted the location of sparks and the thickness of the gas film. 
+  -	Worked in wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining. Designed and evaluated ultrasonic horns for UEDM, focusing on optimal shape and material selectionCollect high-speed camera machining data of the process.
+  -	A couple of prototypes were designed with the main challenge of making sure the vibrations from the transducer don’t damage the brackets itself. The goal being the design should withstand the vibration while firmly holding the transducer to the platform. Material selection was also critical considering vibrations, initial models were printed using PLA and ABS material with highest density which still broke after few runs. Final design was based on resin due to its high strength.
+  -	Based on the design and testing of ultrasonic horns for UEDM, it was concluded that material selection and structural integrity of the mounting bracket are critical to system durability. Initial prototypes made from high-density PLA and ABS failed under repeated vibration loads, indicating insufficient mechanical strength. The final design, developed using resin due to its superior strength and vibration resistance, withstood the operational stresses. This validated the design approach and confirmed resin as a suitable material for holding the transducer securely without failure.
+  - Using the design experiments were performed on the result of which a model was trained using machine learning models CNN and MLP which after training helped in accurately predicting the location of sparks and the thickness of the gas film. 
 
 
 ## Design and development of an electrochemical milling process 
