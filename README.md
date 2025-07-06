@@ -5,14 +5,14 @@ Multidisciplinary engineer pursuing an M.S. in Mechanical Engineering with a foc
 # Work Experience 
 ## Research assistant @ [Micro and Nano Manufacturing Laboratory](https://ceas.uc.edu/research/centers-labs/micro-and-nano-manufacturing-laboratory/research.html), University of Cincinnati      (_Aug 2022 – Exp. Dec 2025_)
 ### Design and development of an electrochemical milling process 
-####  -	A custom system was developed for horizontal electrochemical milling of grade 2 Titanium, tailored to meet specific project requirements.
-####  -	System was small scale down version of actual industrial equipment, developed with an arduino implemented control system.
+-	A custom system was developed for horizontal electrochemical milling of grade 2 Titanium, tailored to meet specific project requirements.
+-	System was small scale down version of actual industrial equipment, developed with an arduino implemented control system.
 ### Study on gas films and sparking in ultrasonic electrochemical discharge machining
-####  -	Worked in wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining. Collect high-speed camera machining data of the process.
-####  - Using machine learning models CNN and MLP accurately predicted the location of sparks and the thickness of the gas film.
+-	Worked in wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining. Collect high-speed camera machining data of the process.
+- Using machine learning models CNN and MLP accurately predicted the location of sparks and the thickness of the gas film.
 ### Simulation of electrochemical machining process 
-####  -	Develop a full-process simulation suite of a specialized electrochemical manufacturing process for a Defense-related project.
-####  -	Simulate dynamic material removal rate along with size and shape of cut contours.
+-	Develop a full-process simulation suite of a specialized electrochemical manufacturing process for a Defense-related project.
+-	Simulate dynamic material removal rate along with size and shape of cut contours.
 
 # Education
 
