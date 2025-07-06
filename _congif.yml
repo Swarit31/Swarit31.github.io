@@ -1,4 +1,20 @@
-custom_css: assets/css/custom.css
+include:
+  - assets/css/custom.css
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+# This tells Jekyll to include the CSS
+
 ##title: Swarit Chaudhari
 #(This would be image)logo:
 email: swarit31@gmail.com
