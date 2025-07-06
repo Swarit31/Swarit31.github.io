@@ -1,3 +1,4 @@
-.site-title {
+/* Hide the site title in the header */
+.site-title, .header-title, header h1 a {
   display: none !important;
 }
