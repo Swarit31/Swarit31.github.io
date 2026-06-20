@@ -31,7 +31,7 @@ permalink: /projects/
 
 
 ## Integrated solar house design with sun-tracker, thermal and P-V systems [click here](https://drive.google.com/file/d/1Nabl_DU8NlQCB60O135zJ-6mBIHn8P1U/view?usp=sharing)
-## Testing and Analysis of Human Femur Bone at Head Portion - B.E. Thesis [click here](https://drive.google.com/file/d/1Nabl_DU8NlQCB60O135zJ-6mBIHn8P1U/view?usp=sharing)
+## Testing and Analysis of Human Femur Bone at Head Portion - B.E. Thesis [click here](https://drive.google.com/drive/search?q=testing)
 
 ## Study on gas films and sparking in Ultrasonic assisted electrochemical discharge machining
   -	Worked in wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining. Designed and evaluated ultrasonic horns for UEDM, focusing on optimal shape and material selectionCollect high-speed camera machining data of the process.
