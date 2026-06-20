@@ -5,7 +5,7 @@ layout: default
 # Certifications
 
 ## Six Sigma
-- [Six Sigma Green Belt - CSSB](file:///C:/Users/swari/Downloads/Official_Certification_Issued_Six_Sigma_Green_Belt_Certification_Standard.pdf)
+- [Six Sigma Green Belt - CSSB](https://drive.google.com/drive/folders/16f_H7Nw0MoP3_D91bb7klNRTImD7JmXl)
 ## OSHA 
 - [ OSHA 10 hour Outreach for General Industry](https://drive.google.com/drive/folders/16f_H7Nw0MoP3_D91bb7klNRTImD7JmXl) 
 ## Udemy
