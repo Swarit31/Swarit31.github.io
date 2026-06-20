@@ -9,19 +9,20 @@
 </head>
 
 <body>
-  <header class="site-header">
-    <div class="container header-row">
-      <a class="brand" href="/">Swarit Chaudhari</a>
+<header class="site-header">
+  <div class="container header-row">
+    <a class="brand" href="{{ '/' | relative_url }}">Swarit Chaudhari</a>
 
-      <nav class="nav">
-        <a href="/experience/">Experience</a>
-        <a href="/projects/">Projects</a>
-        <a href="/education/">Education</a>
-        <a href="/publications/">Publications</a>
-        <a href="/certifications/">Certifications</a>
-      </nav>
-    </div>
-  </header>
+    <nav class="nav">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/experience/' | relative_url }}">Experience</a>
+      <a href="{{ '/projects/' | relative_url }}">Projects</a>
+      <a href="{{ '/education/' | relative_url }}">Education</a>
+      <a href="{{ '/publications/' | relative_url }}">Publications</a>
+      <a href="{{ '/certifications/' | relative_url }}">Certifications</a>
+    </nav>
+  </div>
+</header>
 
   <main class="container">
     {{ content }}
