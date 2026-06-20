@@ -23,4 +23,3 @@ permalink: /education/
 - Developed a patient-specific femur bone implant through structural analysis and design optimization. Conducted a literature review on femur biomechanics and functions. Performed a 3D CT scan to capture accurate bone geometry, created an anatomically accurate, optimized implant design with 2 materials ABS and PLA.
 - Evaluated mechanical properties and predicted service life using material benchmarks for additively manufactured implants.Demonstrated structural integrity and feasibility for long-term use, based on which it was found ABS material to perform better than PLA which both in the simulations and actual tests.
 
-<a href="s-egk.github.io/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/111256/house.svg" alt="Home Page" width="40" height="40" title="Home Page"> </a>
