@@ -13,17 +13,17 @@ plugins:
 
 navigation:
   - name: Home
-    link: ./
+    link: /
   - name: Education
-    link: ./education/
+    link: /education/
   - name: Experience
-    link: ./experience/
+    link: /experience/
   - name: Projects
-    link: ./projects/
+    link: /projects/
   - name: Publications
-    link: ./publications/
+    link: /publications/
   - name: Certifications
-    link: ./certifications/
+    link: /certifications/
 
 platforms:
   - name: Github
