@@ -1,16 +1,58 @@
 ---
-layout: default
+layout: page
 title: Home
+permalink: /
+hide_title: true
 ---
 
-# Aspiring Engineer
+# Swarit Chaudhari
 
-Multidisciplinary engineer pursuing an M.S. in Mechanical Engineering with a focus on non-conventional manufacturing processes.
+Mechanical Engineering · Non-Conventional Manufacturing · Controls · Process Optimization
 
-## Portfolio Sections
+<div class="btnrow">
+  <a class="btn primary" href="/projects/">View Projects</a>
+  <a class="btn" href="/experience/">Work Experience</a>
+  <a class="btn" href="https://github.com/Swarit31">GitHub</a>
+  <a class="btn" href="https://www.linkedin.com/in/swarit-chaudhari/">LinkedIn</a>
+</div>
 
-- [Work Experience](./experience/)
-- [Education](./education/)
-- [Projects](./projects/)
-- [Publications](./publications/)
-- [Certifications](./certifications/)
+## About Me
+
+I am a mechanical engineering graduate student focused on non-conventional manufacturing, electrochemical machining, process optimization, controls, and industrial equipment troubleshooting. My work combines experimental manufacturing research, CAD-based design, Arduino/control-system integration, and hands-on production engineering.
+
+## Currently
+
+- Mechanical Engineering Intern at A1 Americas
+- M.S. Mechanical Engineering student at the University of Cincinnati
+- Research experience in electrochemical machining, ultrasonic ECDM, process modeling, and manufacturing-system development
+
+## Key Skills
+
+<div class="badges">
+  <span class="badge">ECM</span>
+  <span class="badge">ECDM</span>
+  <span class="badge">DOE/RSM</span>
+  <span class="badge">MATLAB</span>
+  <span class="badge">Minitab</span>
+  <span class="badge">CATIA V5</span>
+  <span class="badge">SolidWorks</span>
+  <span class="badge">Arduino</span>
+  <span class="badge">Siemens PLC</span>
+  <span class="badge">Manufacturing Troubleshooting</span>
+</div>
+
+## Highlights
+
+<div class="grid">
+  <div class="card">
+    <h3>Manufacturing Systems</h3>
+    <p>Experience with recommissioning, troubleshooting, cooling-water layout calculations, VFD fault analysis, and production equipment restoration.</p>
+    <a href="/experience/">See experience →</a>
+  </div>
+
+  <div class="card">
+    <h3>Research & Process Optimization</h3>
+    <p>Worked on electrochemical machining, PAECM of titanium, ultrasonic ECDM, DOE, ANOVA, and multi-response optimization.</p>
+    <a href="/projects/">See projects →</a>
+  </div>
+</div>
