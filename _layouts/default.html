@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ page.title }} · {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}" />
+  <link rel="stylesheet" href="/assets/css/main.css?v={{ site.time | date: '%s' }}">
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="container header-row">
+      <a class="brand" href="/">Swarit Chaudhari</a>
+
+      <nav class="nav">
+        <a href="/experience/">Experience</a>
+        <a href="/projects/">Projects</a>
+        <a href="/education/">Education</a>
+        <a href="/publications/">Publications</a>
+        <a href="/certifications/">Certifications</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-row">
+      <span>© {{ site.time | date: "%Y" }} Swarit Chaudhari</span>
+      <span>Built on GitHub Pages</span>
+    </div>
+  </footer>
+</body>
+</html>
