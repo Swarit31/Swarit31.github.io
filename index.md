@@ -15,4 +15,4 @@ Multidisciplinary engineer pursuing an M.S. in Mechanical Engineering with a foc
 - [Publications](./publications/)
 - [Certifications](./certifications/)
 
-***This is cleaner because README.md is for GitHub repository preview, while index.md is clearly your website homepage.***
+// This is cleaner because README.md is for GitHub repository preview, while index.md is clearly your website homepage.
