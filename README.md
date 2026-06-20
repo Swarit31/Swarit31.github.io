@@ -18,7 +18,7 @@ Multidisciplinary engineer pursuing an M.S. in Mechanical Engineering with a foc
 
 # Education
 
-## M.S., Mehanical Engineering | University of Cincinnati (_August 2022 - Exp. Dec. 2025_)
+## M.S. Mechanical Engineering | University of Cincinnati (_August 2022 - Exp. Dec. 2025_)
 - GPA: 3.25/4.0
 - Advisor: [Dr. Murali Sundaram](https://scholar.google.com/citations?user=vXY-oQMAAAAJ&hl=en)
 - Awards: - GIA Scholarship
@@ -27,7 +27,7 @@ Multidisciplinary engineer pursuing an M.S. in Mechanical Engineering with a foc
 - Developed a novel Ultraviolet-assisted hybrid electrochemical machining method for titanium Ti-6Al-4V. Implemented control system using Arduino as well as executed design of experiments methodology to achieve enhanced material removal rate, better surface finish and lower overcut.
 
   
-## B.E., Mechanical Engineering | Savitribai Phule Pune University (_May 2022_)
+## B.E. Mechanical Engineering | Savitribai Phule Pune University (_May 2022_)
 - First Class with Distinction
 - GPA: 8.73/10.00
 - Advisor: [Dr. P.D. Patil](https://scholar.google.com/citations?user=P1Zk7XgAAAAJ&hl=en)
