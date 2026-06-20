@@ -1,15 +1,13 @@
-title: Swarit
+title: Swarit Chaudhari
 email: swarit31@gmail.com
+description: Mechanical Engineering | Non-Conventional Manufacturing | Controls | Process Optimization
 favicon: true
 color-scheme: auto
+markdown: kramdown
+kramdown:
+  input: GFM
 
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
+permalink: pretty
 
 navigation:
   - name: Home
