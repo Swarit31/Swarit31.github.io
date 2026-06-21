@@ -4,8 +4,6 @@ title: Experience
 permalink: /experience/
 ---
 
-# Work Experience
-
 ## Mechanical Engineering Intern - [A1 Americas](https://www.a1americas.com/) (Feb 2026 – July 2026)
 
 ### Clifford Weldmesh Production System Recommissioning
