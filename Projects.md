@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects
-
 ## Photocatalyst Assisted Electrochemical Machining of Grade 5 Titanium (Ti-6Al-4V)
 
 - Designed and developed a custom electrochemical machining system for research on photocatalyst-assisted hybrid electrochemical machining of Ti-6Al-4V.
