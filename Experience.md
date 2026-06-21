@@ -6,7 +6,7 @@ permalink: /experience/
 
 # Work Experience
 
-## Mechanical Engineering Intern @ [A1 Americas](https://www.a1americas.com/) (Feb 2026 – July 2026)
+## Mechanical Engineering Intern - [A1 Americas](https://www.a1americas.com/) (Feb 2026 – July 2026)
 
 ### Clifford Weldmesh Production System Recommissioning
 
@@ -18,7 +18,7 @@ permalink: /experience/
 - Improved equipment reliability and production uptime by troubleshooting day-to-day equipment issues, supporting breakdown recovery, performing RCA for equipment and quality concerns, and implementing corrective actions.
 - Analyzed OEE losses and production performance, redesigned weldmesh machine parts to reduce recurring failures and scrap losses, completed DPR documentation, and developed an inventory tracking process for critical parts to improve availability and operational efficiency.
 
-## Research Assistant @ [Micro and Nano Manufacturing Laboratory](https://ceas.uc.edu/research/centers-labs/micro-and-nano-manufacturing-laboratory/research.html), University of Cincinnati (Aug. 2024 – Dec. 2024; May 2025 – June 2025)
+## Research Assistant - [Micro and Nano Manufacturing Laboratory](https://ceas.uc.edu/research/centers-labs/micro-and-nano-manufacturing-laboratory/research.html), University of Cincinnati (Aug. 2024 – Dec. 2024; May 2025 – June 2025)
 
 ### Design and Development of an Electrochemical Milling Process
 
