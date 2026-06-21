@@ -28,10 +28,7 @@ permalink: /projects/
 - Reviewed literature on manufacturing methods for porous materials. Designed various micro-porous geometries in SolidWorks for comparison. Conducted tensile, compression and bending simulations using ANSYS to evaluate mechanical properties. Analyzed simulation data to assess the influence of pore size strength and stiffness
 - We identified trends in mechanical performance relative to pore size and geometry. Smaller porous metals performed better proving they can be subjected to larger compressions, deformation due to larger thickness in the connecting parts. Provided insights to guide material selection and design and manufacturing methods for porous structural components.
 
-
-
 ## Integrated solar house design with sun-tracker, thermal and P-V systems [click here](https://drive.google.com/file/d/1Nabl_DU8NlQCB60O135zJ-6mBIHn8P1U/view?usp=sharing)
-## Testing and Analysis of Human Femur Bone at Head Portion - B.E. Thesis [click here](https://drive.google.com/file/d/1nFa4PoDZcov7eWnGeyCzAlpkUhZlEN83/view)
 
 ## Study on gas films and sparking in Ultrasonic assisted electrochemical discharge machining
   -	Worked in wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining. Designed and evaluated ultrasonic horns for UEDM, focusing on optimal shape and material selectionCollect high-speed camera machining data of the process.
