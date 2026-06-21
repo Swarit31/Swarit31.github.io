@@ -10,6 +10,9 @@ permalink: /projects/
 - Modeled the system in CATIA V5 and fabricated a functional prototype using FDM and SLA additive manufacturing processes. Designed and integrated an Arduino-based control system with temperature, current, and flow sensors for real-time monitoring.
 - Successfully machined Ti-6Al-4V using the developed Photo assisted ECM setup. Performed Linear sweep voltammetry detecting interaction of process with Ti64. Applied Design of Experiments (central composite design) to optimize novel hybrid machining prototype enhancing material removal rate, achieving 63% better surface finish, 58% minimized over-cut.
 
+## 3D-Printed Touchscreen Infotainment Dashboard Enclosure ([Ryerson](https://www.ryerson.com/))
+- Designed a 3D-printed touchscreen infotainment dashboard enclosure from concept to final assembly, using iterative CAD design, test-fitting, and prototyping to ensure secure display fitment, stable mounting, accessible ports, cable routing, and functional integration for a local client.
+
 ## Comparing Acoustic Horn Designs for Ultrasonic Electro Discharge Machining
 
 [View project](https://drive.google.com/file/d/1TZvKJ6EA-MULNo2_hepJlK4ximdFGhar/view?usp=sharing)
