@@ -5,7 +5,7 @@ permalink: /certifications/
 ---
 
 ## Six Sigma
-- [](https://drive.google.com/drive/folders/16f_H7Nw0MoP3_D91bb7klNRTImD7JmXl)
+- [Six Sigma Green Belt - CSSB](https://drive.google.com/drive/folders/16f_H7Nw0MoP3_D91bb7klNRTImD7JmXl)
 
 ## OSHA 
 - [OSHA 10 hour Outreach for General Industry](https://drive.google.com/drive/folders/16f_H7Nw0MoP3_D91bb7klNRTImD7JmXl)
