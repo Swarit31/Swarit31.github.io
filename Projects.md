@@ -30,12 +30,7 @@ permalink: /projects/
 - Conducted tensile, compression, and bending simulations using ANSYS.
 - Found that smaller porous structures performed better due to higher effective connecting-section thickness.
 
-## Integrated Solar House Design with Sun-Tracker, Thermal, and PV Systems
-
-[View project](https://drive.google.com/file/d/1Nabl_DU8NlQCB60O135zJ-6mBIHn8P1U/view?usp=sharing)
-
 ## Testing and Analysis of Human Femur Bone at Head Portion - B.E. Thesis
-
 [View paper](https://ijcrt.org/papers/IJCRT2205752.pdf)
 
 - Developed a patient-specific femur bone implant through structural analysis and design optimization.Conducted literature review on femur biomechanics and implant design, gathering data on the structure and strength limits.
@@ -44,10 +39,16 @@ permalink: /projects/
 
 ## Study on Gas Films and Sparking in Ultrasonic-Assisted Electrochemical Discharge Machining
 [View paper](https://link.springer.com/article/10.1007/s00170-026-17639-z)
+
 - Worked in a wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining, studying the effect of vibrations on the gas films.
 - Designed and evaluated UEDM mounting brackets and horn-support components.
 - Tested PLA, ABS, and resin-based prototypes under vibration loading with resin as the final bracket material due to a high tolerance to vibration-induced failure.
 - Used CNN and MLP machine learning models to predict spark location and gas-film thickness.
+  
+## Integrated Solar House Design with Sun-Tracker, Thermal, and PV Systems
+[View project](https://drive.google.com/file/d/1Nabl_DU8NlQCB60O135zJ-6mBIHn8P1U/view?usp=sharing)
+
+- Performed cost analysis of solar panels, batteries, and thermal designs using publicly available Cincinnati data.
 
 ## Design and Development of an Electrochemical Milling Process
 
