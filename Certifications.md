@@ -4,8 +4,6 @@ title: Certifications
 permalink: /certifications/
 ---
 
-# Certifications
-
 ## Six Sigma
 - [Six Sigma Green Belt - CSSB](https://drive.google.com/drive/folders/16f_H7Nw0MoP3_D91bb7klNRTImD7JmXl)
 ## OSHA 
