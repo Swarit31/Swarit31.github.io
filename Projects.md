@@ -9,10 +9,8 @@ permalink: /projects/
 ## Photocatalyst Assisted Electrochemical Machining of Grade 5 Titanium (Ti-6Al-4V)
 
 - Designed and developed a custom electrochemical machining system for research on photocatalyst-assisted hybrid electrochemical machining of Ti-6Al-4V.
-- Modeled the system in CATIA V5 and fabricated a functional prototype using FDM and SLA additive manufacturing processes.
-- Designed and integrated an Arduino-based control system with temperature, current, and flow sensors for real-time monitoring.
-- Assembled the full system, including 3D-printed components, electronics, and mechanical interfaces.
-- Successfully machined Ti-6Al-4V using the developed ECM setup.
+- Modeled the system in CATIA V5 and fabricated a functional prototype using FDM and SLA additive manufacturing processes. Designed and integrated an Arduino-based control system with temperature, current, and flow sensors for real-time monitoring.
+- Successfully machined Ti-6Al-4V using the developed Photo assisted ECM setup. Performed Linear sweep voltammetry detecting interaction of process with Ti64. Applied Design of Experiments (central composite design) to optimize novel hybrid machining prototype enhancing material removal rate, achieving 63% better surface finish, 58% minimized over-cut.
 
 ## Comparing Acoustic Horn Designs for Ultrasonic Electro Discharge Machining
 
@@ -40,21 +38,19 @@ permalink: /projects/
 
 [View paper](https://ijcrt.org/papers/IJCRT2205752.pdf)
 
-- Developed a patient-specific femur bone implant through structural analysis and design optimization.
-- Conducted literature review on femur biomechanics and implant design.
-- Created an anatomically accurate implant model using CT-scan-based geometry.
-- Compared ABS and PLA materials using simulation and mechanical testing.
+- Developed a patient-specific femur bone implant through structural analysis and design optimization.Conducted literature review on femur biomechanics and implant design, gathering data on the structure and strength limits.
+- Created an anatomically accurate implant model using CT-scan-based geometry. ABS and PLA material were preferred material of interest substituting the actual femur bone.
+- Ultimately, analyzed mechanical properties and service life of the developed bone implant using benchmark properties of additively manufactured components, as well as material properties.
 
 ## Study on Gas Films and Sparking in Ultrasonic-Assisted Electrochemical Discharge Machining
 
-- Worked in a wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining.
+- Worked in a wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining, studying the effect of vibrations on the gas films.
 - Designed and evaluated UEDM mounting brackets and horn-support components.
-- Tested PLA, ABS, and resin-based prototypes under vibration loading.
-- Selected resin as the final bracket material because it better resisted vibration-induced failure.
+- Tested PLA, ABS, and resin-based prototypes under vibration loading with resin as the final bracket material due to a high tolerance to vibration-induced failure.
 - Used CNN and MLP machine learning models to predict spark location and gas-film thickness.
 
 ## Design and Development of an Electrochemical Milling Process
 
 - Developed a custom horizontal electrochemical milling system for grade 2 titanium.
-- Built a small-scale version of industrial equipment using an Arduino-implemented control system.
-- Developed simulation workflow for predicting material removal and cut-contour geometry.
+- Built a small-scale prototype version of the industrial equipment using an Arduino-implemented control system.
+- Developed comsol based simulation workflow for predicting material removal and cut-contour geometry alongwith the effect of heat and electrolyte chemistry on the titanium samples.
