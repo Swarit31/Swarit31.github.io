@@ -6,7 +6,7 @@ permalink: /experience/
 
 ## Mechanical Engineering Intern - [A1 Americas](https://www.a1americas.com/) (Feb 2026 – July 2026)
 
-### Clifford Weldmesh Production System Recommissioning
+### Clifford Weldmesh System Recommissioning
 
 - Led cross-functional engineering coordination and technical execution with a contractor for the recommissioning of a Clifford Weldmesh production system through mechanical, electrical, and controls engineering assessment, including CAD-based replacement part design, electrical debugging, wiring verification, Siemens S7-300 PLC troubleshooting, Danfoss VLT 2800/5000 VFD fault-code analysis, fabricating 3D-printed parts, hands-on field troubleshooting, OEM documentation review, directing contractor activities, and ensuring smooth equipment restoration.
 - Performed system recalculations and redesigned the pump and TCV layout for both existing and new weldmesh lines, improving water distribution and maintaining required temperature control.
