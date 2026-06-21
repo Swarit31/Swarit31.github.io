@@ -23,12 +23,9 @@ navigation:
     link: /certifications/
 
 platforms:
-  - name: Github
-    icon: <i class="fa-brands fa-github"></i>
+  - name: GitHub
     link: https://github.com/Swarit31
   - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/swarit-chaudhari/
   - name: ORCID
-    icon: <i class="fa-brands fa-orcid"></i>
     link: https://orcid.org/0000-0003-3228-5939
