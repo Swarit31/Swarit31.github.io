@@ -43,7 +43,7 @@ permalink: /projects/
 - Ultimately, analyzed mechanical properties and service life of the developed bone implant using benchmark properties of additively manufactured components, as well as material properties.
 
 ## Study on Gas Films and Sparking in Ultrasonic-Assisted Electrochemical Discharge Machining
-
+[View paper](https://link.springer.com/article/10.1007/s00170-026-17639-z)
 - Worked in a wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining, studying the effect of vibrations on the gas films.
 - Designed and evaluated UEDM mounting brackets and horn-support components.
 - Tested PLA, ABS, and resin-based prototypes under vibration loading with resin as the final bracket material due to a high tolerance to vibration-induced failure.
