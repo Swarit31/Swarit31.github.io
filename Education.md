@@ -4,7 +4,7 @@ title: Education
 permalink: /education/
 ---
 
-## M.S., Mechanical Engineering (Micro and Nano Manufacturing) | University of Cincinnati (_August 2022 - Exp. December 2025_)
+## M.S. Mechanical Engineering (Micro and Nano Manufacturing) | University of Cincinnati (_August 2022 - Exp. December 2025_)
 - GPA: 3.23/4.0
 - Advisor: [Dr. Murali Sundaram](https://scholar.google.com/citations?user=vXY-oQMAAAAJ&hl=en)
 - Awards: GIA Scholarship
@@ -12,7 +12,7 @@ permalink: /education/
 ### Graduate Thesis: _Photocatalyst Assisted Electrochemical Machining of Titanium_
 - Developed a novel Ultraviolet-assisted hybrid electrochemical machining method for titanium. Implemented Control system using Arduino as well as design of experiments executed to achieve enhanced material removal rate, better surface finish and lower overcut.
 
-## B.E., Mechanical Engineering | Savitribai Phule Pune University (_May 2022_)
+## B.E. Mechanical Engineering | Savitribai Phule Pune University (_May 2022_)
 - First Class with Distinction
 - GPA: 8.73/10.00
 - Advisor: [Dr. P.D. Patil](https://scholar.google.com/citations?user=P1Zk7XgAAAAJ&hl=en)
