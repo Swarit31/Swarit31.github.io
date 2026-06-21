@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Publications & Presentations
+title: Research
 permalink: /publications/
 ---
 
+# Research profiles
+- [Google Scholar](https://scholar.google.com/citations?user=QhXp8LUAAAAJ&hl=en&oi=sra)
 # Publications
 - **Swarit Avinash Chaudhari**, Pruthviraj. D. Patil, Darshan Magare, Gaurav Patil and Pratik Chaudhari, "Testing and Analysis for Mechanical Properties of Human Femur Bone at Head Portion", [IJCRT 2022; ISSN : 2320-2882](https://ijcrt.org/papers/IJCRT2205752.pdf)
 - Gore, Prayag, **Swarit Chaudhari**, and Murali Sundaram. "Study of gas film dynamics in electrochemical discharge machining using imaging data." The International Journal of Advanced Manufacturing Technology 143, no. 1 (2026): 1007-1020.[https://doi.org/10.1007/s00170-026-17639-z](https://link.springer.com/article/10.1007/s00170-026-17639-z)
