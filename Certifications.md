@@ -5,7 +5,7 @@ permalink: /certifications/
 ---
 
 ## Six Sigma
-- [Six Sigma Green Belt - CSSB}
+- [Six Sigma Green Belt - CSSB]
 ## Six Sigma
 - [Six Sigma Green Belt - CSSB](https://drive.google.com/drive/folders/16f_H7Nw0MoP3D91bb7klNRTImD7JmXl)
 
