@@ -4,8 +4,6 @@ title: Education
 permalink: /education/
 ---
 
-# Education
-
 ## M.S., Mechanical Engineering (Micro and Nano Manufacturing) | University of Cincinnati (_August 2022 - Exp. December 2025_)
 - GPA: 3.23/4.0
 - Advisor: [Dr. Murali Sundaram](https://scholar.google.com/citations?user=vXY-oQMAAAAJ&hl=en)
