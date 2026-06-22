@@ -18,28 +18,27 @@ permalink: /experience/
 
 ## Research Assistant - [Micro and Nano Manufacturing Laboratory](https://ceas.uc.edu/research/centers-labs/micro-and-nano-manufacturing-laboratory/research.html), University of Cincinnati (Aug. 2024 – Dec. 2024; May 2025 – June 2025)
 
-### Design and Development of an Electrochemical Milling Process
+### Design, development and simulation of a Horizontal tool Electrochemical Milling Process
 
-- Developed a custom system for horizontal electrochemical milling of grade 2 titanium, tailored to meet specific project requirements.
-- Built a small-scale version of industrial equipment with an Arduino-implemented control system.
-
-### Study on Gas Films and Sparking in Ultrasonic Electrochemical Discharge Machining
-
-- Worked in a wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining and collected high-speed camera machining data.
-- Used CNN and MLP machine learning models to predict spark location and gas-film thickness.
-
-### Simulation of Electrochemical Machining Process
-
+- Developed a custom horizontal electrochemical milling platform for Grade 2 titanium in support of a confidential contract-based engineering project.
+- Designed and assembled a small-scale prototype modeled after industrial electrochemical machining equipment, integrating an Arduino-based control system to regulate key process parameters and improve repeatability during experimental milling operations.
 - Developed a full-process simulation suite of a specialized electrochemical manufacturing process for a defense-related project.
 - Simulated dynamic material removal rate along with the size and shape of cut contours.
 
-## Team Member – [On The Green, University of Cincinnati](https://ucdining.sodexomyway.com/en-us/locations/on-the-green) [(Aramark Hospitality Services)](https://www.aramark.com/our-services/hospitality-management) (Aug. 2023 – May 2024)
+### Study of Gas Films and Spark behavior in Ultrasonic Electrochemical Discharge Machining
 
-- Oversaw dishwashing operations and ensured timely completion of cleaning tasks by coordinating with student workers.
-- Distributed cleaned kitchen equipment to designated sections in the dining hall and maintained high standards of cleanliness in the dining area.
-- Assisted with table cleaning, serving section upkeep, and billing-counter operations to support daily dining operations.
+- Conducted ultrasonic vibration-assisted electrochemical discharge machining experiments in a wet lab environment and collected high-speed imaging data to analyze machining behavior.
+- Designed and prototyped custom brackets with varied geometries and materials, including ABS, PLA, and resin, to improve durability under vibration-induced loading. Iterated bracket designs with emphasis on increased material density and structural robustness after identifying failure modes during ultrasonic operation.
+- Applied CNN and MLP machine learning models to predict spark location and estimate gas-film thickness from experimental machining data.Worked in a wet lab environment performing ultrasonic vibration-assisted electrochemical discharge machining and collected high-speed camera machining data.
+
+## Team Member – Dining Services [On The Green, University of Cincinnati](https://ucdining.sodexomyway.com/en-us/locations/on-the-green) [(Aramark Hospitality Services)](https://www.aramark.com/our-services/hospitality-management) (Aug. 2023 – May 2024)
+
+- Supported daily dining hall operations by coordinating dishwashing workflows and assisting student workers with task prioritization.
+- Maintained sanitation standards by distributing cleaned kitchen equipment, cleaning tables, and ensuring serving areas remained organized and service-ready.
+- Assisted with billing-counter operations and cross-functional dining service tasks to ensure efficient customer service during peak operating hours.Oversaw dishwashing operations and ensured timely completion of cleaning tasks by coordinating with student workers.
 
 ## Event Staff – [University of Cincinnati Parking Services](https://www.uc.edu/about/parking.html) (May 2023 – Aug. 2024)
 
-- Assisted with parking operations during events by collecting payments, issuing entry tickets, and managing traffic flow.
-- Guided guests to event locations, resolved inquiries, ensured smooth garage exits, and communicated broader issues to the office via radio.
+- Supported event parking operations by processing payments, issuing entry tickets, and directing vehicle traffic to maintain efficient flow.
+- Assisted guests with directions, event location guidance, and general inquiries to ensure a positive attendee experience.
+- Monitored garage exits, resolved routine access issues, and communicated operational concerns to office staff via radio.
