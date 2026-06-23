@@ -17,10 +17,10 @@ permalink: /projects/
 
 [View project](https://drive.google.com/file/d/1TZvKJ6EA-MULNo2_hepJlK4ximdFGhar/view?usp=sharing)
 
-- Designed and evaluated ultrasonic horns for ultrasonic electro discharge machining.
-- Compared horn geometries and materials using displacement, magnification factor, stress, and frequency.
-- Performed analytical calculations and validated results using ANSYS harmonic/modal analysis.
-- Identified suitable horn geometry and material combinations for improved UEDM performance.
+- Designed and evaluated ultrasonic acoustic horns for Ultrasonic-Assisted Electrical Discharge Machining, focusing on geometry and material selection to maximize vibration transfer at the tool interface.
+- Developed cone and step horn geometries in CATIA V5 and compared candidate materials using key performance parameters, including displacement, magnification factor, stress, and resonant frequency.
+- Performed analytical design calculations and validated the results through ANSYS modal and harmonic response simulations.
+- Identified suitable horn geometry–material combinations to improve UEDM efficiency, reliability, and manufacturability.
 
 ## Computational Analysis of Pore-Size Effect on Mechanical Performance of Micro-Porous Structures
 
