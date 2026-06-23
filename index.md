@@ -10,7 +10,7 @@ hide_title: true
 Mechanical Engineering · Non-Conventional Manufacturing · Controls · Process Optimization
 
 <div class="btnrow">
-  <a class="btn primary" href="/projects/">View Projects</a>
+  <a class="btn" href="/projects/">View Projects</a>
   <a class="btn" href="/experience/">Work Experience</a>
   <a class="btn" href="https://github.com/Swarit31">GitHub</a>
   <a class="btn" href="https://www.linkedin.com/in/swarit-chaudhari/">LinkedIn</a>
