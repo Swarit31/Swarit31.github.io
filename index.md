@@ -18,7 +18,7 @@ Mechanical Engineering · Non-Conventional Manufacturing · Controls · Process 
 
 ## About Me
 
-I am a mechanical engineering graduate student focused on non-conventional manufacturing, electrochemical machining, process optimization, controls, and industrial equipment troubleshooting. My work combines experimental manufacturing research, CAD-based design, Arduino/control-system integration, and hands-on production engineering.
+Multidisciplinary engineer pursuing an M.S. in Mechanical Engineering with a focus on non-conventional manufacturing processes such as electrochemical machining, additive manufacturing, modular weldmesh manufacturing. Demonstrated success in developing high-performance manufacturing systems integrated with control architectures. Skilled in CATIA V5, Arduino, C++, industrial equipment troubleshooting with a strong foundation in process optimization. Experienced in translating theoretical knowledge into practical solutions for complex challenges in both academic research and industry settings. My work combines experimental manufacturing research, CAD-based design, Arduino/control-system integration, and hands-on production engineering.
 
 ## Currently
 
